@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @xidianswq I'm a rookie！
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-xidianswq/xidianswq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# personal introduction
+- Name：Si Wuqiang
+- Gender：Male
+- Birthday：2003
+- Hometown：Hefei, Anhui Province, China
+- Contact：
+- - E\-mail：3209507800@qq.com & 21009200454@stu.xidian.edu.cn
+- - QQ number: 3209507800
+- - WeChat:SWQ3209507800
+- blogroll：
+- - CSDN：[switch_swq-CSDN博客](https://blog.csdn.net/qq_32971095?type=blog)
