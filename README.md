@@ -2,11 +2,10 @@
 ---
 ## This is My PERSONAL INFORMATION
 - Name：*Si Wuqiang*
-- Gender：*Male*
 - Birthday：*2003*
 - Hometown：*Hefei, Anhui Province, China*
 - Contact：
-  - E\-mail：*3209507800@qq.com* & *21009200454@stu.xidian.edu.cn*
+  - E\-mail：*3209507800@qq.com*
   - QQ number: *3209507800*
   - WeChat: *SWQ3209507800*
 - Blogroll：
